@@ -1,14 +1,9 @@
-
-.heading
-{
-font-size: 23px;
-width: 100%;
-margin: 0px;
-}
-
-#status
-{
-font-size: 18px;
+a{
+    font-size: 20px;
+    width: 400px;
+    border-radius: 30px;
+    background-color: skyblue;
+    color: white;
 }
 body{
     background-size: cover;
